@@ -1,0 +1,1 @@
+ g++ -std=c++17 -o ./builds/array_vector 01_array_vector.cpp
